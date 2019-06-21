@@ -3,3 +3,5 @@ react-fancy-component is a react project built to publish as npm module. It is u
 
 
 1. npm run build
+
+2. copy package.json in to build/ folder
