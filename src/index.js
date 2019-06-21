@@ -5,7 +5,7 @@ class Fancy extends React.Component {
   render() {
     return (
       <Provider store={store}>
-      <div>This is so Fancy!</div>
+      <div>This is so Fancy component having store!</div>
       </Provider>
     );
   }
